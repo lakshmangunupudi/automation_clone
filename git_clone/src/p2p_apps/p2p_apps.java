@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package git_clone;
+package p2p_apps;
 
 /**
  *
  * @author lakshmangunupudi
  */
-public class Git_clone {
+public class p2p_apps {
 
     /**
      * @param args the command line arguments

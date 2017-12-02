@@ -8,7 +8,7 @@
  *
  **/
 
-package git_clone;
+package p2p_apps;
 
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.TouchAction;
