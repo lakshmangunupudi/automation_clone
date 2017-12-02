@@ -27,8 +27,11 @@ public class Soundcloud  {
 
     private void playChannels()
     {
+        
+        
         try
         {
+            
         int channels;
             //Here we are running different channales and for each channel we are  playing  5 songs
             appiumWebDriver.findElementAndPerformAction("scroll","Playlists for working out", "","scroll to playlist");
@@ -158,6 +161,7 @@ public class Soundcloud  {
             // Playing different channels
             this.playChannels();
             
+            System.out.println("hiiii");
             //playing different songs by searching
             this.searchSonogs();
             
